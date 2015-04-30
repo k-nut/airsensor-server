@@ -1,0 +1,22 @@
+{
+  "name": "airsensor",
+  "version": "0.0.1",
+  "homepage": "https://github.com/k-nut/airsensor-server",
+  "authors": [
+    "Knut Hühne <knut@k-nut.eu>"
+  ],
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flot": "~0.8.3",
+    "lodash": "~3.7.0",
+    "moment": "~2.10.2"
+  }
+}
